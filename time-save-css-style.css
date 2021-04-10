@@ -1,0 +1,7 @@
+.text-gray {
+  color: #616161;
+}
+.text-gray-hover :hover {
+  color: #00c853 !important;
+}
+// file is not complete
